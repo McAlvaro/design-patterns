@@ -1,0 +1,5 @@
+spring:
+  application:
+  name: strategy-pattern
+server:
+  port: 8081

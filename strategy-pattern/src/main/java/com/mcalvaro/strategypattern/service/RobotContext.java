@@ -8,7 +8,7 @@ import org.springframework.beans.factory.InitializingBean;
 import org.springframework.stereotype.Service;
 
 import com.mcalvaro.strategypattern.enums.RobotType;
-import com.mcalvaro.strategypattern.strategy.IRobotStrategy;
+import com.mcalvaro.strategypattern.strategy.contract.IRobotStrategy;
 
 @Service
 public class RobotContext implements InitializingBean {

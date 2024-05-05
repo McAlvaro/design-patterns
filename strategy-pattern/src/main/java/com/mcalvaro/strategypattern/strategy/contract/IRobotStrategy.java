@@ -1,4 +1,4 @@
-package com.mcalvaro.strategypattern.strategy;
+package com.mcalvaro.strategypattern.strategy.contract;
 
 import com.mcalvaro.strategypattern.enums.RobotType;
 
